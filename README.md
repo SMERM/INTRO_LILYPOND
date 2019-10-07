@@ -1,5 +1,5 @@
 # INTRO_LILYPOND
-Repository del Corso di Introduzione al software notazionale LILYPOND tenuto dal M° Citera
+Repository del Corso di Introduzione al software notazionale [LILYPOND](http://lilypond.org/index.it.html) tenuto dal M° Citera
 
 Lezioni:
 
@@ -7,3 +7,8 @@ Lezioni:
 * Venerdì 11 ottobre ore 10-13
 * Venerdì 18 ottobre ore 10-13
 * Venerdì 25 ottobre ore 10-13
+
+Come Installare Lilypond:
+* [Scaricare il file di installazione](http://lilypond.org/download.it.html)
+* Eseguire l'installer
+* Lilypond sara ora installato
