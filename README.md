@@ -11,4 +11,3 @@ Lezioni:
 Come Installare Lilypond:
 * [Scaricare il file di installazione](http://lilypond.org/download.it.html)
 * Eseguire l'installer
-* Lilypond sara ora installato
