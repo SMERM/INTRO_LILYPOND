@@ -8,11 +8,12 @@ Lezioni:
 * Venerdì 18 ottobre ore 10-13
 * Venerdì 25 ottobre ore 10-13
 
-Come Installare LilyPond:
+**Come Installare LilyPond:**
 * [Scaricare il file di installazione di LilyPond](http://lilypond.org/download.it.html)
 * Eseguire l'installer
 
-Come Installare Frescobaldi:
-Frescobaldi è un editor grafico che utilizza LilyPond per la realizzazione di partiture. Frescobaldi è un software libero , disponibile gratuitamente. Disponibile per macOs, Windows e Linux.
+**Come Installare Frescobaldi:**
+
+Frescobaldi è un editor che utilizza LilyPond per la realizzazione di partiture, (mostra in tempo reale le modifiche realizzate su di un file LilyPond). Frescobaldi è un software libero, disponibile gratuitamente per macOs, Windows e Linux.
 * [Scaricare il file di installazione di Frescobaldi](http://www.frescobaldi.org/download)
 * Eseguire l'installer
