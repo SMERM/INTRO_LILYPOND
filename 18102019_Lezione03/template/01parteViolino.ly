@@ -1,0 +1,1 @@
+primoStrumento= \relative c'{ \time 2/4 c4 d8 e f4 g4 r2  c2  ees2 g2 c2\fermata}
