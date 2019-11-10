@@ -6,7 +6,11 @@ Lezioni:
 * Sabato 5 ottobre ore 10-13 > [Riassunto della Prima Lezione](https://github.com/SMERM/INTRO_LILYPOND/tree/master/05102019_Lezione_01)
 * Venerdì 11 ottobre ore 10-13 > [Riassunto della Seconda Lezione](https://github.com/SMERM/INTRO_LILYPOND/tree/master/11102019_Lezione_02)
 * Venerdì 18 ottobre ore 10-13 > [Riassunto della Terza Lezione](https://github.com/SMERM/INTRO_LILYPOND/tree/master/18102019_Lezione_03)
-* Giovedì 31 ottobre ore 10-13
+* Giovedì 31 ottobre ore 10-13 > [Esempi citati nella Quarta Lezione](https://github.com/SMERM/INTRO_LILYPOND/tree/master/31102019_Lezione_04)
+
+* Alcuni Template > [Template, PaperSize e PDF](https://github.com/SMERM/INTRO_LILYPOND/tree/master/Template)
+
+
 
 **Come Installare LilyPond:**
 * [Scaricare il file di installazione di LilyPond](http://lilypond.org/download.it.html)
